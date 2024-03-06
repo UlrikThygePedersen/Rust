@@ -12,10 +12,4 @@ Ensure you have Rust installed:
 
 - [Rust Installation](https://www.rust-lang.org/tools/install)
 
-## Usage
-
-Explore the Rust code snippets to learn and experiment. Have fun coding in Rust! 🚀
-
----
-
-Feel the Rust vibes and unleash the crabs! 🦀
+# 🦀

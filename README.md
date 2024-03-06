@@ -12,4 +12,4 @@ Ensure you have Rust installed:
 
 - [Rust Installation](https://www.rust-lang.org/tools/install)
 
-# 🦀
+# Project Overview: 🦀

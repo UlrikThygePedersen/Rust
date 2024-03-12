@@ -1,5 +1,3 @@
 {
-    "rust-analyzer.linkedProjects": [
-        "./scope_functions/Cargo.toml"
-    ]
+    "rust-analyzer.checkOnSave": true
 }
